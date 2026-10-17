@@ -15,7 +15,7 @@ I'm a software engineering student specializing in both low-level system program
 * **webserv**: A custom HTTP/1.1 web server built from scratch in C++98, capable of handling non-blocking I/O multiplexing, CGI execution, and NGINX-like routing.
 * **Inception**: A multi-container Docker infrastructure deployed with Docker Compose, featuring NGINX with SSL/TLS, WordPress, and MariaDB.
 * **[minishell](https://github.com/tcmjlnt/minishell)**: A custom Unix shell written in C, emphasizing process creation, system calls, and manual memory management.
-* **[get_next_line](https://github.com/tcmjlnt/get_next_line)**: An algorithmic C project foc
+* **[get_next_line](https://github.com/tcmjlnt/get_next_line)**: An algorithmic C project focused on efficiency and strict memory leak prevention.
 
 ### 🌱 Open Source Contributions
 * **[CoopCycle App](https://github.com/coopcycle/coopcycle-app)**: Contributed to the native Swift application for [CoopCycle](https://coopcycle.org) [cite: 1.3.1], an open-source, community-driven logistics platform empowering local bicycle delivery cooperatives across Europe.
